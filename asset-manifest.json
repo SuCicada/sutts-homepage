@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/sutts-homepage/static/css/main.073c9b0a.css",
-    "main.js": "/sutts-homepage/static/js/main.fa19621d.js",
+    "main.js": "/sutts-homepage/static/js/main.db7c0f09.js",
     "index.html": "/sutts-homepage/index.html",
     "main.073c9b0a.css.map": "/sutts-homepage/static/css/main.073c9b0a.css.map",
-    "main.fa19621d.js.map": "/sutts-homepage/static/js/main.fa19621d.js.map"
+    "main.db7c0f09.js.map": "/sutts-homepage/static/js/main.db7c0f09.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.fa19621d.js"
+    "static/js/main.db7c0f09.js"
   ]
 }
